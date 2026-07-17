@@ -1,0 +1,64 @@
+.list{
+    display: inline-block;
+    padding: 5px;
+}
+.nav-links{
+    text-align: center;
+    float: right;
+    margin-top: 80px;
+    margin-right: 400px;
+}
+.button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid red;
+}
+img{
+    margin-top: 80px;
+    margin-left: 100px;
+    float: left;
+}
+.btn{
+    background-color: rgb(118, 88, 252);
+    width: 200px;
+    height:50px ;
+    border-radius: 5px;
+    border: 1px solid rgb(118, 88, 252);
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+}
+.btns{
+    background-color:white;
+    width: 200px;
+    height:50px ;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.btns:hover{
+    background-color:rgb(118, 88, 252);
+    border: 1px solid white;
+    color:white;
+}
+.bookmark{
+    float: left;
+    margin-top: 100px;
+    margin-left: 150px;
+    font-size: 24px;
+    width: 50%;
+}
+.image {
+  float: right;
+  width: 45%; /* Takes up slightly less than half to leave a gap */
+  margin-top: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
